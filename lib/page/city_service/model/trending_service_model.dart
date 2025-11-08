@@ -25,6 +25,12 @@ abstract final class TrendingServiceModel {
         title: '定向台北',
         url: 'https://taipei-city-orienteering-167351732833.asia-east1.run.app',
       ),
+      TrendingService(
+        icon: Assets.svg.iconDeadlineWarrior.svg(),
+        title: '定向台北後台',
+        url:
+            'https://taipei-city-orienteering-167351732833.asia-east1.run.app/admin',
+      ),
       // 在此列表後加入新熱門按鈕
       // add new trending service button here
     ];
