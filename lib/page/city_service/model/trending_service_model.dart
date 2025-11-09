@@ -26,8 +26,8 @@ abstract final class TrendingServiceModel {
         url: 'https://taipei-city-orienteering-167351732833.asia-east1.run.app',
       ),
       TrendingService(
-        icon: Assets.svg.iconDeadlineWarrior.svg(),
-        title: '定向台北後台',
+        icon: Assets.svg.iconDeadlineWarriorAdmin.svg(),
+        title: '定向後台',
         url:
             'https://taipei-city-orienteering-167351732833.asia-east1.run.app/admin',
       ),
